@@ -25,7 +25,7 @@ public class FoodTest{
         groceryCart[6] = new Vegetable("Carrots", 1.45, "Orange");
         groceryCart[7] = new Vegetable("Potatoes", 3.99, "Red");
         groceryCart[8] = new Vegetable("Broccoli", 5.21, "Green");
-        groceryCart[9] = new Vegetable("Turnit", .99, "White");
+        groceryCart[9] = new Vegetable("Turnip", .99, "White");
         groceryCart[10] = new Vegetable("Onions", 1.99, "Yellow");
         groceryCart[11] = new Fruit("Apples", 5.79, true);
         groceryCart[12] = new Fruit("Banana", .78, false);
